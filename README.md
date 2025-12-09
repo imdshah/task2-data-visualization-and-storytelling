@@ -90,5 +90,4 @@ The dashboard is structured for clarity, with meaningful titles and clean visual
 
 ## 🛠️ Tools Used  
 - Tableau Public Desktop Edition  
-- Superstore Dataset (Excel)
 
